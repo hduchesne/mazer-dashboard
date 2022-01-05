@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACH,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,OAAO;EACzB,WAAW,EAAE,IAAI;;AACjB,iBAAW;EACP,KAAK,EAAE,IAAI;;AAEf,mBAAa;EACT,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI",
+"sources": ["../../scss/pages/error.scss"],
+"names": [],
+"file": "error.css"
+}
